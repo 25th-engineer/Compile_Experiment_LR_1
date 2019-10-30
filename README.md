@@ -6,7 +6,7 @@
 ****
 ## 开发环境：
 ### 硬件： 
->>>>DeLR G3 3579；<br>
+>>>>Dell G3 3579；<br>
 ### 软件：
 >>>>OS：Ubuntu 16.04.06；<br>
 >>>>IDE：InterLRiJ IDEA Ultimate Edition（2019.1.3）；<br>
